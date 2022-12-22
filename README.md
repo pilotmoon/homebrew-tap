@@ -1,11 +1,9 @@
 # Pilotmoon Tap
 
-## How do I install these formulae?
+A [Homebrew tap](https://docs.brew.sh/Taps) listing items that can be installed using Homebrew.
 
-`brew install pilotmoon/tap/<formula>`
+## Available items
 
-Or `brew tap pilotmoon/tap` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+| Name | Description | Installation command |
+|------|-------------|----------------------|
+| [aquaticprime](https://github.com/pilotmoon/AquaticPrime) | My fork of the AquaticPrime License utility | `brew install --cask pilotmoon/tap/aquaticprime` |
